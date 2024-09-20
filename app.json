@@ -1,0 +1,13 @@
+{
+    "name": "JioSaavnAPI",
+    "description": "Unofficial API of JioSaavn.",
+    "author": "Softkingo",
+    "keywords": [
+        "flask",
+        "python",
+        "saavn",
+        "jiosaavn",
+        "music"
+    ],
+    "repository": "https://github.com/kevinnSharma/"
+}
